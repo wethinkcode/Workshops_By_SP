@@ -16,8 +16,8 @@ This repository contains a collection of projects and examples related to softwa
 # Languages
 Projects in this repository are primarily written in the following languages:
 
-Python
-Java
+- Python
+- Java
 
 # How To Contribute
 We encourage all students to actively participate in improving this repository. If you come across any bugs, issues, or have ideas for enhancements, feel free to contribute by following these steps:
