@@ -6,9 +6,9 @@ Welcome to the Workshop Repository by WeThinkCode_'s Student Performance Team (S
 This repository is specifically designed for educational purposes as part of the workshops offered by SP. Our goal is to provide a hands-on learning experience for students interested in software development. This README will guide you through the purpose of this repository and how you can actively contribute.
 
 # Table of Contents
-[Overview] 
-[Languages] 
-[How to Contribute] 
+1. Overview 
+2. Languages 
+3. How to Contribute 
 
 # Overview
 This repository contains a collection of projects and examples related to software engineering, focusing primarily on the programming languages Python and Java. These projects are designed to complement the topics covered in our workshops and provide students with practical experience.
