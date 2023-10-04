@@ -73,3 +73,45 @@ public class BookStoreTest {
         assertEquals(44.98, totalPrice, 0.001);  // Using a delta for double comparison
     }
 }
+
+// public class Person {
+//     private String name;
+//     // ... rest of the class
+// }
+
+// import java.lang.reflect.Field;
+// import org.junit.Test;
+// import static org.junit.Assert.*;
+
+// public class PersonTest {
+//     @Test
+//     public void testNameFieldIsPrivate() throws NoSuchFieldException {
+            // Tests to see if the class attribure 'name' has been set to private
+//         Field nameField = Person.class.getDeclaredField("name");
+//         assertTrue(java.lang.reflect.Modifier.isPrivate(nameField.getModifiers()));
+//     }
+
+//     @Test
+//     public void testGetName() {
+            // Tests to see if the getter works correctly by returning the expected name
+//         Person person = new Person();
+//         person.setName("John");
+//         assertEquals("John", person.getName());
+//     }
+
+//     @Test
+//     public void testSetName() {
+            // // Tests to see if the Setter works correctly by setting the expected name
+//         Person person = new Person();
+//         person.setName("John");
+
+//         // Using reflection to get the value of the name field without the getName() method
+//         Field nameField = Person.class.getDeclaredField("name");
+//         nameField.setAccessible(true); // You need this line to access a private field
+//         String nameValue = (String) nameField.get(person);
+
+//         assertEquals("John", nameValue);
+//     }
+// }
+
+
