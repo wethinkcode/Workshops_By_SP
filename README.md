@@ -29,3 +29,14 @@ We encourage all students to actively participate in improving this repository. 
 - Create a Pull Request (PR) to merge your changes into this main repository.
 
 Our team will review your contributions and, if they align with the educational goals of this repository, merge them accordingly.
+
+# How to Add A Project
+ Once you've cloned the repo, to add an exercise as a submodule run the following command:
+
+
+```shell
+git submodule add <exercise_repo_url> <path_to_submodule>
+```
+This will automatially create the path folder/directories specified in `<path_to_submodule>`.
+
+Create exercise and solution folders, go ham.
