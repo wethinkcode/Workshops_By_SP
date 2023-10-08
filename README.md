@@ -37,6 +37,12 @@ Our team will review your contributions and, if they align with the educational 
 ```shell
 git submodule add <exercise_repo_url> <path_to_submodule>
 ```
+
+e.g
+```shell
+git submodule add https://github.com/wethinkcode/Workshops_By_SP.git Java/Object_Oriented_Programming/Encapsulation/<Name_Of_Project>
+```
+
 This will automatially create the path folder/directories specified in `<path_to_submodule>`.
 
 Create exercise and solution folders, go ham.
