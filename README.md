@@ -43,6 +43,6 @@ e.g
 git submodule add https://github.com/wethinkcode/Workshops_By_SP.git Java/Object_Oriented_Programming/Encapsulation/<Name_Of_Project>
 ```
 
-This will automatially create the path folder/directories specified in `<path_to_submodule>`.
+This will automatically create the path folder/directories specified in `<path_to_submodule>`.
 
 Create exercise and solution folders, go ham.

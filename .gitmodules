@@ -1,3 +1,6 @@
 [submodule "Java/Object_Oriented_Programming/Encapsulation/Bookstore"]
 	path = Java/Object_Oriented_Programming/Encapsulation/Bookstore
 	url = https://github.com/wethinkcode/Workshops_By_SP.git
+[submodule "Python/Fundamentals/Basic_Syntax"]
+	path = Python/Fundamentals/Basic_Syntax
+	url = https://github.com/wethinkcode/Workshops_By_SP.git
