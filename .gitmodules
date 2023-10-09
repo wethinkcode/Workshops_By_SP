@@ -1,0 +1,3 @@
+[submodule "java/oop/encapsulation/bookstore"]
+	path = java/oop/encapsulation/bookstore
+	url = ./java/oop/encapsulation/bookstore/
