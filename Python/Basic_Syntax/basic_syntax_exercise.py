@@ -9,12 +9,16 @@ b = False
 
 # Use the print statement and the variable 'x' to display the message:
     # "10, is an integer variable."
+print()    
 # Use the print statement and the variable 'y' to display the message: 
     # "20.5, is a float variable."
+print()
 # Use the print statement and the variable 'z' to display the message: 
     # " 'Hello, World!' is a string variable."
+print()
 # Use the print statement and the variable 'a' to display the message:
     # " 'True', is a boolean variable."
+print()
 # Use the print statement and the variable 'b' to display the message:
     # " 'False', is a boolean variable.
 
@@ -50,7 +54,7 @@ print()
 # Modulus (remainder of the division): print the remainder after dividing x by y
 print()
 
-# 5. Indentation: 
+# 4. Indentation: 
     # Python uses indentation to indicate the beginning and end of code blocks.
 # Complete the for loop below to print numbers 0 to 5    
 for number in range(6):
